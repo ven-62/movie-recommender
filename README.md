@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender (TF-IDF + Cosine Similarity)
+# Movie Recommender (TF-IDF + Cosine Similarity)
 
 A content-based movie recommendation system built in Python. Type in a few keywords (genres, themes, plot ideas) and the system returns the five most similar movies from a dataset, along with their details and similarity scores.
 
@@ -15,7 +15,6 @@ Built as a final project for a BSCS course.
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Possible Improvements](#possible-improvements)
-- [Author](#author)
 
 ---
 

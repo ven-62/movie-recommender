@@ -189,8 +189,8 @@ This project was checked by running example queries and reading the results. It 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/movie-recommender-tfidf.git
-cd movie-recommender-tfidf
+git clone https://github.com/ven-62/movie-recommender.git
+cd movie-recommender
 ```
 
 ### 2. Install dependencies
